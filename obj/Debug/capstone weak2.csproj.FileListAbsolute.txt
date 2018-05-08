@@ -1,0 +1,7 @@
+C:\Users\mcyal\source\repos\capstone weak2\capstone weak2\bin\Debug\capstone weak2.exe.config
+C:\Users\mcyal\source\repos\capstone weak2\capstone weak2\bin\Debug\capstone weak2.exe
+C:\Users\mcyal\source\repos\capstone weak2\capstone weak2\bin\Debug\capstone weak2.pdb
+C:\Users\mcyal\source\repos\capstone weak2\capstone weak2\obj\Debug\capstone weak2.csprojResolveAssemblyReference.cache
+C:\Users\mcyal\source\repos\capstone weak2\capstone weak2\obj\Debug\capstone weak2.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\source\repos\capstone weak2\capstone weak2\obj\Debug\capstone weak2.exe
+C:\Users\mcyal\source\repos\capstone weak2\capstone weak2\obj\Debug\capstone weak2.pdb
